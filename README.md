@@ -32,9 +32,8 @@
 
 ## Support the Mission
 
-* 🪙 **SOL** – `B2PPk7QoXCwwP36Ze3J8twK1Swgq4vndmdxruaYfmhXu`
-* 🔹 **EVM** – `0x9499ca5397238e5aef204a424910c652b51b3ba3`
-* ₿ **BTC** – `bc1qgkk0euf8t6ynx4q8zz3dxcwzpvy53qt4cl4fkg`
+* 🪙 **SOL** – `belimad.sol`
+* 🔹 **EVM** – `belimad.eth`
 
 ## Connect
 
