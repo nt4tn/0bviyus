@@ -13,7 +13,7 @@
 > Former VC & Operator (Motive Ventures, Santander) now trading term sheets for farm tech. Building tools that make life simpler—whether it's managing API spend, catching a train, or controlling the TV from a terminal.
 
 * 🛠️ **[OpenClaw](https://github.com/openclaw)** – Maintainer of open-source robotics and automation tools.
-* 🐄 **Agri-Tech** – Exploring the intersection of robotics and farm management.
+* 🐄 **[Clawdius](https://github.com/belimad/clawdius)** – My personal fun project to make your house better.
 * 🏛️ **Legacy** – Ex-Santander InnoVentures & Santander Asset Management. 
 * 🧠 **Mentoring** – Guiding the next generation of robotics and fintech builders.
 
