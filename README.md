@@ -12,9 +12,14 @@
 + [TEMPORAL_FIX] -- LLM CONTEXTUAL SYNCHRONIZATION
 + [AUTODIDACT] -- SCALING KNOWLEDGE VIA AGENTIC SYSTEMS
 
-## // RESEARCH_THREADS
-* [CLAUDE_CODE] -- REFINING SYSTEM PROMPTS
-* [CODEX] -- HIGH-EFFICIENCY MODEL INTEGRATION
+## // RESEARCH_WALLETS
+> Secure targets for development and on-chain verification.
+
+| CHAIN | ADDRESS |
+| :--- | :--- |
+| **EVM** | `0xD236f2493a483BB21F0f7b1E2c22757f66b6Dba1` |
+| **SOL** | `DetuFv9Z8dZ722r5vvVKSgy7q4qtJMocvb6pJ1Bx1abT` |
+| **KASPA** | `kaspa:qqt3rkjrjg2jkaav2z66nj7c4tyd2hx89lka6vgajpm39j0hg9g5c0myqysz9` |
 
 ## // CHANNELS
 [[ BROADCASTS ]] -- [@0bviyus](https://x.com/0bviyus)
@@ -28,7 +33,7 @@
 <details>
 <summary>[SYSTEM_LOGS]</summary>
 
-- **ALIAS**: ア야ーン
+- **ALIAS**: アヤーン
 - **JOINED**: JANUARY 2023
-- **STATE**: OPTIMIZING_2025_CONTEXT
+- **STATE**: OPTIMIZING_2026_CONTEXT
 </details>
